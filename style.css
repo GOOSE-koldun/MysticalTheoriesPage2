@@ -1,0 +1,113 @@
+body {
+    font-family: Brandley Hand;
+    background-color: #171717;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+header a {
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 20px;
+    color: white;
+    background-color: #171717;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header a:hover {
+    font-size: 35px;
+    transition: 0.2s ease-in;
+}
+
+header p {
+    font-size: 40px;
+    text-align: center;
+}
+
+header img {
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    padding-left: 10px;
+}
+
+.logo {
+    float: left;
+    width: 40px;
+}
+
+h1 {
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.z51 {
+    float: left;
+    
+}
+
+.z51 a {
+    margin-left: 250px;
+}
+
+.pd {
+    float: right;
+
+}
+
+.pd a {
+    margin-left: 300px
+}
+
+.sp {
+    float: left;
+}
+
+.themes1 a{
+    background-color: white;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.themes1 a:hover {
+    padding: 7px;
+    transition: 0.2s ease-in;
+}
+
+.themes1 img {
+    width: 700px;
+    height: 400px;
+    border-radius: 15px;
+}
+
+.themes1 img:hover {
+    border: white solid 5px;
+    transition: 0.2s ease-in;
+
+}
+
+
+.themes2 img {
+    padding-top: 200px;
+    width: 500px;
+    height: 300px;
+}
+
+.themes2 p{
+    background-color: white;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+}
